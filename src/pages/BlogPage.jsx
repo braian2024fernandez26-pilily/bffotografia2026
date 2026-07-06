@@ -7,7 +7,7 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Captura de pantalla",
-      img: "https://photos.google.com/share/AF1QipNFEvhexBBPxKsLB2kg94HdYfqjSIM05kJX4LcepNxpfQwmVMF6beG8iZaKm_LYGQ/photo/AF1QipMidDs8XwmAVMYpSyu6GGvnnZ6e9sLT4q97TQvY?key=amFsZlVxZzBUU09QWUtiMVBPVi00U3c1c09XeXFn",
+      img: "https://lh3.googleusercontent.com/pw/AP1GczM_l_26di161wPPTdw-ig6DtZHiuCZjPsPK85VJqFyubVQBJWvMk9xadA4PuHIQxluSiBcJe-gUfNtIA_pokzML-VDAGLDGwD79eRGR3huQxUZNJVmBp6ugawzjAzT0I07EkAuH4JgUBiERhdWXyEFz=w720-h720-s-no-gm?authuser=0",
       title: "Comprar Foto",
     },
     {
