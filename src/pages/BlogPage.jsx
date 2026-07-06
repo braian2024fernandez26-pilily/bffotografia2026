@@ -7,13 +7,13 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Captura de pantalla",
-      img: "/public/logo.png",
+      img: "https://photos.app.goo.gl/b21y7nK2c2axyUdU7",
       title: "Comprar Foto",
     },
     {
       id: "2",
       name: "Captura de pantalla",
-      img: "/public/skate.jpg",
+      img: "https://photos.app.goo.gl/ZTVe1EQP84vdFG8s9",
       title: "Comprar Foto",
     },
   ];
