@@ -7,13 +7,13 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Captura de pantalla",
-      img: "https://static.nationalgeographicla.com/files/styles/image_3200/public/domestic-cat.webp?w=1600&h=1067&q=100",
+      img: "https://photos.google.com/share/AF1QipNFEvhexBBPxKsLB2kg94HdYfqjSIM05kJX4LcepNxpfQwmVMF6beG8iZaKm_LYGQ/photo/AF1QipM4okwV0kMMgmWjT4kLTW80Q85g12p2mp_WrXu3?key=amFsZlVxZzBUU09QWUtiMVBPVi00U3c1c09XeXFn",
       title: "Comprar Foto",
     },
     {
       id: "2",
       name: "Captura de pantalla",
-      img: "",
+      img: "https://lh3.googleusercontent.com/pw/AP1GczPv_hpkb1pkzFXNWXZeN7zHEOuJ-h6Z06H1rRyJRAGnZuqxts8uMRY4b9xQktqOPW37OQ5iBGLXUCaBrURi34hsYUVCD7lv6ZM6_ZdwH3rx5CmDkYUXPUx8zfKNV25owR9szL4YkpkY4HPrIdam5cCY=w735-h919-s-no-gm?authuser=0",
       title: "Comprar Foto",
     },
   ];
