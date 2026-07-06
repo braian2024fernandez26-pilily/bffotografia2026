@@ -7,13 +7,13 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Captura de pantalla",
-      img: "https://photos.app.goo.gl/b21y7nK2c2axyUdU7",
+      img: "https://static.nationalgeographicla.com/files/styles/image_3200/public/domestic-cat.webp?w=1600&h=1067&q=100",
       title: "Comprar Foto",
     },
     {
       id: "2",
       name: "Captura de pantalla",
-      img: "https://photos.app.goo.gl/ZTVe1EQP84vdFG8s9",
+      img: "",
       title: "Comprar Foto",
     },
   ];
