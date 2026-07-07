@@ -28,7 +28,7 @@ const BlogPage = () => {
   return (
     <div>
       <HeaderComponent></HeaderComponent>
-      <h1></h1>
+      <h1>Estoy editando después subo las fotos más tarde</h1>
       /* {postCard} */
     </div>
   );
