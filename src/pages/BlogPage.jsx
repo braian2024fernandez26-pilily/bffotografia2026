@@ -8,7 +8,7 @@ const BlogPage = () => {
       id: "1",
       name: "Estoy editando después subo las fotos más tarde",
       img: "https://photos.fife.usercontent.google.com/pw/AP1GczOSTGyU63n8LlVTV0Oxz2w4Ou00IWDN-Ioj0oQ2bDYmlhDG9LzQ_hIl=w360-h240-s-no-gm?authuser=0",
-      // title: "Comprar Foto",
+      title: "Comprar Foto",
     },
   //   {
   //     id: "2",
