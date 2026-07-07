@@ -18,12 +18,12 @@ const BlogPage = () => {
   //   },
   ];
 
-  const postCard = sordos.map((sord) => {
-    return (
-      <li key={sord.id}>
-        <PostCard sord={sord}></PostCard>
-      </li>
-    );
+  // const postCard = sordos.map((sord) => {
+  //   return (
+  //     <li key={sord.id}>
+  //       <PostCard sord={sord}></PostCard>
+  //     </li>
+  //   );
   });
   return (
     <div>
