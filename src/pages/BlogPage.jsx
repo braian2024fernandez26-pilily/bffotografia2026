@@ -16,7 +16,7 @@ const BlogPage = () => {
   //     img: "",
   //     title: "Comprar Foto",
   //   },
-  // ];
+  ];
 
   const postCard = sordos.map((sord) => {
     return (
