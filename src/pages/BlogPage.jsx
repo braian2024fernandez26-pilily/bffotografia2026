@@ -7,7 +7,7 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Estoy editando después subo las fotos más tarde",
-      img: "https://photos.app.goo.gl/5P2cMd93csme2oxL6",
+      img: "https://photos.app.goo.gl/ZfwjFSRCx3gSLtQy5",
       title: "Comprar Foto",
     },
   //   {
