@@ -10,6 +10,8 @@ const HomePage = () => {
       <h1>Bienvenidos nuevo mi sito web, Pueden buscar las fotos y me envian</h1>
       <img src={jineteada} alt="" width={400} className="pago" />
       <img src={logo} alt="" width={400} className="pago" />
+      <small>&copy; 2026 <b>BF Fotografia Gober,Castro</b></small>
+      <p>Publicado: 13 de Enero</p>
     </div>
   );
 };
