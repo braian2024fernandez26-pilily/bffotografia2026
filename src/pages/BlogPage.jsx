@@ -3,13 +3,13 @@ import HeaderComponent from "../components/HeaderComponent";
 import PostCard from "../components/PostCard";
 
 const BlogPage = () => {
-  // const sordos = [
-  //   {
-  //     id: "1",
-  //     name: "Captura de pantalla",
-  //     img: "",
-  //     title: "Comprar Foto",
-  //   },
+  const sordos = [
+    {
+      id: "1",
+      name: "Estoy editando después subo las fotos más tarde",
+      img: "",
+      title: "Comprar Foto",
+    },
   //   {
   //     id: "2",
   //     name: "Captura de pantalla",
@@ -18,18 +18,17 @@ const BlogPage = () => {
   //   },
   // ];
 
-  // const postCard = sordos.map((sord) => {
-  //   return (
-  //     <li key={sord.id}>
-  //       <PostCard sord={sord}></PostCard>
-  //     </li>
-  //   );
-  // });
+  const postCard = sordos.map((sord) => {
+    return (
+      <li key={sord.id}>
+        <PostCard sord={sord}></PostCard>
+      </li>
+    );
+  });
   return (
     <div>
       <HeaderComponent></HeaderComponent>
-      <h1>Estoy editando después subo las fotos más tarde</h1>
-      /* {postCard} */
+      {postCard} 
     </div>
   );
 };
