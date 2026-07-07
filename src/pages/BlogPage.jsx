@@ -7,8 +7,8 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Estoy editando después subo las fotos más tarde",
-      img: "",
-      title: "Comprar Foto",
+      // img: "",
+      // title: "Comprar Foto",
     },
   //   {
   //     id: "2",
