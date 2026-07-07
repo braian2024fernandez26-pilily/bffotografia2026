@@ -1,7 +1,7 @@
 import React from "react";
 import HeaderComponent from "../components/HeaderComponent";
 import logo from "/public/pago.png";
-import jineteada from "/public/jineteada.jpg";
+import jineteada from "/public/jineteada.JPG";
 
 
 const HomePage = () => {
