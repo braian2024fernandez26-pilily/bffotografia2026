@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <div>
       <HeaderComponent></HeaderComponent>
-      <h1>Bienvenidos nueva mi sito web, Pueden buscar fotos me enviame</h1>
+      <h1>Bienvenidos nuevo mi sito web, Pueden buscar fotos me envian</h1>
       <img src={logo} alt="" width={400} className="pago" />
       <h2>Estoy editando después subio las fotos más tarde</h2>
     </div>
