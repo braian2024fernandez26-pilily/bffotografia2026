@@ -8,7 +8,7 @@ const datosLocales = {
   1: {
     titulo: "Comprar Foto",
     desc: "Captura de pantalla enviar por WhatsApp",
-    img: "img1",
+    img: img1,
   },
   2: {
     titulo: "Comprar Foto",
