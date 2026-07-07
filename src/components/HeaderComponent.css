@@ -53,7 +53,7 @@ button {
 }
 
 .palabra {
-  text-decoration: none;
   margin: 10px;
   font-size: 20px;
+  color: red;
 }
