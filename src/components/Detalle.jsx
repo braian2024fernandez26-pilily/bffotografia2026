@@ -8,7 +8,7 @@ const datosLocales = {
   1: {
     titulo: "Comprar Foto",
     desc: "Captura de pantalla enviar por WhatsApp",
-    img: "https://photos.google.com/share/AF1QipPnz88bZcAmp986gBPpF6TIFVwhocqb3iWEc21nM2DfA4C6GP6SyjWbeGOFkzJJBw/photo/AF1QipPFdNAzFcufzkLM6Eo5MyL53wSUJ8OtVTfIxQRp",
+    img: "https://photos.fife.usercontent.google.com/pw/AP1GczNimOgJzNhVcutX7p4qcriKrLGrtEW5z7GRQHpRM9B3o0vYrdhqzkZ6aZjZ9gUhNqRL8gfd0iVuEZ3Z5Yf6IufwMAJRhQ=w613-h919-s-no-gm?authuser=0",
   },
   2: {
     titulo: "Comprar Foto",
