@@ -6,7 +6,7 @@ const BlogPage = () => {
   const sordos = [
     {
       id: "1",
-      name: "Estoy editando después subo las fotos más tarde",
+      name: "Estoy editando después subo las fotos más tarde o mañana",
       // img: "",
       // title: "Comprar Foto",
     },
