@@ -7,7 +7,7 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Buenos dias, Subo las fotos la tarde",
-      img: "https://lh3.googleusercontent.com/pw/AP1GczPN5hcmQ3K9DTAmHTvTQvvxa4c7a1m7dTWHMEJrUpfqtaxq7pYq33iLk02ItsM3MBpHFUaltjv91iWvMicznNZFMEtfHINb8QUkihRzlawvlxjPRQZ0r5SOqfJpSJue91kY9WQqSSI7D6ND39U9ZAFY=w1388-h919-s-no-gm?authuser=0",
+      img: "",
       title: "Comprar Foto",
     },
   //   {
