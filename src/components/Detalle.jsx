@@ -1,19 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import img1 from "../assets/logo.png";
-import img2 from "../assets/skate.jpg";
 import "./HeaderComponent.css";
 
 const datosLocales = {
   1: {
     titulo: "Comprar Foto",
     desc: "Captura de pantalla enviar por WhatsApp",
-    img: img1,
   },
   2: {
     titulo: "Comprar Foto",
     desc: "Captura de pantalla enviar por WhatsApp",
-    img: img2,
   },
 };
 
