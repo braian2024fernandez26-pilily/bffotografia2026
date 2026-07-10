@@ -258,6 +258,79 @@ img: "https://lh3.googleusercontent.com/pw/AP1GczMFI9n9c7XK1EiHO3r7Y72VMsJuNb4AU
 title: "Comprar foto",
 },
 
+    {
+id: "43",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczM9UVY6QC7Lu9RRJU66J5WRjRuJg4efAChILxVIg_RzsISCa0ccW05uL_II9K9PIXyvkOTXPQsB5Wo4V80IMGWcARr_jE6IH0tq_vmGAM8TAC57uX0pVix4qsAA4PmK_ayQvhsYetkKOy_W_Hew0f5K=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "44",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczNwA2Hs-zZSXopVddCeugWG-glDxSStPmBOH4ZYirH2oxVcREJ3rpVV9PTWQqtSIo2TTQAtQej1YbaWT1E22AcVhK5admE2D_10H0iJCkoySMhwfWuq-M0YaQ03QyXePNgK5h1Nxh8LkZkYKbxKs-0h=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "45",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczNoL5H_DCQLKGaG8u7NqUY89QjLs9cEACAGGI0luWUUZjaBPoGuqutndGtvf9SpvWhMMZea0aj_ASxsmFP_KiecL59UFsshBu9xK-AJWcc-Lznqsu85wailq5jyb711P033mBhky5djxzzyEdk2yB-i=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "46",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczNl8M8yijHt6ki-iYhbnbylE0Ao-PpfKqwVdB7Lyuuj9nR-NHesmDVOh-lyINn5XIsIctxN5Nf1HlqSpe0vMZJCzSxoTqM69FarMDDPfh6asZbjZxTYVNcmJJKItuIwwFmO7Zkdo0kQKTfVzdiWRi2a=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "47",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczONb5feCmamwKOW5EYdzCQFT6OhhHbVjsvQD91u9_qWGQEs6bFqrKOncQ7349xmxuPjoOHomJ8LVm3g2Pr0D6r87_LPAH2QWvWrBZVcpfPy4VcCOKMp0vy9ghEwrrEVM6J2b_m959YTuyeNCrQGh6IX=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "48",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczMRso6wOIlP1C77d0YjqigYYoTd2tYMuJD5jBPPVqm3_tRkFMWiuDlWqvMiDgw5jU1h5ysK3G1vgDlexN25ctgKvl6mcgRWnuSbU-o4ba6dqChjlbdLpi9w6XCEx7AV6ryHJFr8ErhLPmVhFwA-1Jm5=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "49",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczNF-K2DigHLAOOXwuDFWUWDzTySaEjJhTovERlzQ7RtIFwBQYHX4Q7s-wdRe58jv4gHVFT9J9XUsGhMdWaiWUrjx45kk3N9JAoM35-Kc2eRyXW-d6ylyeHE7nw_fClTyN34DYXZobcKosp7l0eiLk6N=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "50",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczN9g-96JVX6nRuhQsUub584GryodH0AW8HILM05CKhsSOAGfHAqN6B7bf9pxu9IUeWR0dTbsLlBAOArl-sCYoPCT-pcauXxTuLu1yUR1-zdT9eQI9GqnRcq21-rcSUflV8SVaEo6suSxmrlbHOtEjEf=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "51",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczPSIa4uEUiqPDpEdKuJPiTC2Snblau-S6qzUwsUHF0p0Yf5n2VWT7dzdxOrsP51BQ1fSMXRB-Y8rwEpC3OZxFKkt1rbBUYxPBKZ3XDnFCXEaZPDyDRt58xvFkqAIrerAAFJoxpSbtUTueaVaFR9VLEy=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "52",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczPHfROkt4wX1M1u0eNfKEizJ8RjvjCr5cRhRh1TDcouum4nuexVv8s2kYF1kQC2874YxT7yLSMU5fNbQsDB9cRcYFrbh2rFAIpdF4JUVjjC4beTE1Q2-baA2jKUiUbbhRwYe07Hrz9LwW0eDE7nDgOe=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "53",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczPIoBG0P87jSiM2LXiq8OGfLrk4PEKO7hTGY6i4JPJfPMLvbpXlHTiEXCMQyizXyg03mxD_zCh2UFEibUYzPK6FNY1ZuuMGhSKVw9pNTafBCZ0QDwnJG3GMMv6NFA3aGepu1ohbnrUf64fIKuU7AMX2=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+{
+id: "54",
+name: "Captura de pantalla",
+img: "https://lh3.googleusercontent.com/pw/AP1GczM5Qns12j2arHl0WkPSYJ_40dvjscb5DltzSgF6ZJGevOxO0_XwkXK0RlrcoFyh5I9y5GOhANFw4f79SbB9rsAYbE7X0kN08rqytLVEo2WerKYAjirrKyLxdZIQa9SCxVUrzc5L9fm294My6OpLdKGE=w1080-h720-s-no-gm?authuser=0",
+title: "Comprar foto",
+},
+
 ];
 
   const postCard = sordos.map((sord) => {
