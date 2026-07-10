@@ -7,7 +7,7 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Estoy editando después subo las fotos más tarde o mañana",
-      img: "https://photos.google.com/share/AF1QipNyMdA-gdskrfQ-DGxPKZVBa7PSPjYl8PE3X1dz8YVZDCqR7Qqm4n3fSqQ0KYYqCQ/photo/AF1QipN1-fKBMNMLcNBoGbspLZMeuJGelPA2_rgjDt1o?key=bFFDVXNOS2F1LVZUMXFIRkNZU1BKZzBqeTBHRmtB",
+      img: "https://lh3.googleusercontent.com/pw/AP1GczPN5hcmQ3K9DTAmHTvTQvvxa4c7a1m7dTWHMEJrUpfqtaxq7pYq33iLk02ItsM3MBpHFUaltjv91iWvMicznNZFMEtfHINb8QUkihRzlawvlxjPRQZ0r5SOqfJpSJue91kY9WQqSSI7D6ND39U9ZAFY=w1388-h919-s-no-gm?authuser=0",
       // title: "Comprar Foto",
     },
   //   {
