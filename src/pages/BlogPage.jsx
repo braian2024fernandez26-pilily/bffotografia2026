@@ -7,7 +7,7 @@ const BlogPage = () => {
     {
       id: "1",
       name: "Estoy editando después subo las fotos más tarde o mañana",
-      // img: "",
+      img: "https://photos.google.com/share/AF1QipNyMdA-gdskrfQ-DGxPKZVBa7PSPjYl8PE3X1dz8YVZDCqR7Qqm4n3fSqQ0KYYqCQ/photo/AF1QipN1-fKBMNMLcNBoGbspLZMeuJGelPA2_rgjDt1o?key=bFFDVXNOS2F1LVZUMXFIRkNZU1BKZzBqeTBHRmtB",
       // title: "Comprar Foto",
     },
   //   {
