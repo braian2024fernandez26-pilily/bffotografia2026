@@ -4,13 +4,105 @@ import "./HeaderComponent.css";
 
 const datosLocales = {
   1: {
-    titulo: "Comprar Foto",
-    desc: "Captura de pantalla enviar por WhatsApp",
-  },
-  2: {
-    titulo: "Comprar Foto",
-    desc: "Captura de pantalla enviar por WhatsApp",
-  },
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+2: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+3: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+4: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+5: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+6: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+7: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+8: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+9: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+10: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+11: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+12: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+13: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+14: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+15: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+16: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+17: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+18: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+19: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+20: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+  
 };
 
 const Detalle = () => {
