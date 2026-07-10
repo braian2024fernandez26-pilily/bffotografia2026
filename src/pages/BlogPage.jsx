@@ -185,47 +185,7 @@ name: "Captura de pantalla",
 img: "https://lh3.googleusercontent.com/pw/AP1GczP8zsIz1Df8mCUdwjEP5u7v0qcZaNUshw4Nf53WeEm6RCMyyVAWwADfG4Lgxfa8JNkJdwFQ47L-KBv5SqsSVylCF8Hf1uLnSh2pRzUCj2fHc0poFR5KspcDDgAKh7giyb5lu5ze60qaORFGITxWDoUc=w1080-h720-s-no-gm?authuser=0",
 title: "Comprar foto",
 },
-{
-id: "31",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczPtApPIWxX2Cn7XCRBmSoCJg-3i41Qluc-b8U9AIAbGecRYKcgRlSVzRgcC7gxIag0yy3dZIeMcuqeE7dIhTfhrW6fPLym2vtRlSkwT3vQkw991QYLUc1GzJc6DZ6QCzahmNEwMeiiWLTwJunQt7SdT=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-{
-id: "32",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczPwaGTpKTS6oXnLE8C2DNrjN-GB4EH2NJM4kRbpyitz6iny7zJeLVwoQ37-bxgmirdP-AAAWLlMemL_KFHxcFU3NU4oZoxzczLV4ZhRAOJ6oKji-V0iEqCgp8Nz5n0Hy-5BbnYV9D1GRVNHR-GpO-bM=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-{
-id: "33",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczOb4S9YWW417Sg-jvZ-SSZjXO-8HPO99Xv12AxtZgeMw79yXH1tBp4xIyTWVCZEjtrckT7Vb-_EL_GLEF3nkA_1t8i_MgrurMYCWkvINAkww5wFUpviXtEjW4-4t1-xPpHyogUf-0kH8CoE-DnFZHRU=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-{
-id: "34",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczOJAu4Wk5C7c_tjTB8_DbFwF8BYSKvZEXOIwHJzMxjv16tVnCKyOvnvd2URwtyx9eJzdQrYhzgs-nmo4auTNJY7z4Muv255sG9-rPsFweqSZhkXq2lAF7nnW-wI1ZBkpKNi4AEOpvG-gEd17Qd2lxag=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-{
-id: "35",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczO8PQHc94JO1ZRzQnZ0OsorNTeBl4iDKqquTs1YAW5mXpWh9sgYvhYBueudfvYDldhTcmq1mdSGKgeD2X2KK3m4jbvH_cawZQn7hBB-IsPvf36rsSgEHa_NPJMT8LSOpUhs4kDGKIXIGsOfmudhmQ9g=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-{
-id: "36",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczOGt8qR9KEn1qzbOTgE73hDQvRNKhdzVBbY3Lj9XzXWspa-5l1OCYJadSkl-lEW6eTqbpSu9xpVXEMTOZm3sDdoJoYM6jdXgbBCEE2a4ZRQC-9cPaVBbjG1z8zhf0KN4zv42YbT3ts61efKdgJthg78=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-},
-id: "37",
-name: "Captura de pantalla",
-img: "https://lh3.googleusercontent.com/pw/AP1GczOQk1N7EgixqKwtBcA-0i4pRAiQKXoDw53cpRDqlLrJXvvhxHWTlb9gVvY4V05ZibfmfHIdnnJZv58O5NgeePA4jaH2NWehiz31n407coKB7Ap5iKeE5UEyj-NmRL3p4vQlsQQ-OYyFVJAvePm1680S=w1080-h720-s-no-gm?authuser=0",
-title: "Comprar foto",
-}
+
 ];
 
   const postCard = sordos.map((sord) => {
