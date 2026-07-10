@@ -102,6 +102,138 @@ const datosLocales = {
    titulo: "Comprar Foto",
    desc: "Captura de pantalla enviar por WhatsApp",
 },
+
+21: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+22: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+23: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+
+24: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+25: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+26: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+27: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+28: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+29: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+30: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+31: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+
+32: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+33: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+34: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+35: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+36: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+37: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+38: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+39: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+40: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+41: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+42: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+43: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+44: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+45: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+46: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+47: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+48: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+49: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
+50: {
+   titulo: "Comprar Foto",
+   desc: "Captura de pantalla enviar por WhatsApp",
+},
   
 };
 
