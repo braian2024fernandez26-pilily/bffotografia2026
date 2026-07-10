@@ -225,7 +225,7 @@ id: "37",
 name: "Captura de pantalla",
 img: "https://lh3.googleusercontent.com/pw/AP1GczOQk1N7EgixqKwtBcA-0i4pRAiQKXoDw53cpRDqlLrJXvvhxHWTlb9gVvY4V05ZibfmfHIdnnJZv58O5NgeePA4jaH2NWehiz31n407coKB7Ap5iKeE5UEyj-NmRL3p4vQlsQQ-OYyFVJAvePm1680S=w1080-h720-s-no-gm?authuser=0",
 title: "Comprar foto",
-},
+}
 ];
 
   const postCard = sordos.map((sord) => {
