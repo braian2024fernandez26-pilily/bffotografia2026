@@ -11,7 +11,7 @@ const HomePage = () => {
       <img src={jineteada} alt="" width={400} className="pago" />
       <img src={logo} alt="" width={400} className="pago" />
       <p>&copy; 2026 <b>BF Fotografia Gober,Castro</b></p>
-      <p>Publicado: 7 de Julio</p>
+      <p>Publicado: 10 de Julio</p>
     </div>
   );
 };
