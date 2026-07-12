@@ -11,7 +11,6 @@ const datosLocales = {
 2: {
    titulo: "Comprar Foto",
    desc: "Captura de pantalla enviar por WhatsApp",
-  img: "https://lh3.googleusercontent.com/pw/AP1GczOch6_dXuiuyadZEOqA5HcER-epRKxi9WvD2pGjh_0nvVZMwYt7RPxlckb9WYoaCDqKKevtItmXL3lgfyj7axGAT8TNsRDfkEOzrHcKA5t71pEVg1vHHy3x8xj1RB0-OVqZjOqcZufeYFX_F5tJxhjs=w1080-h720-s-no-gm?authuser=0",
 },
 
 3: {
